@@ -1,11 +1,11 @@
-# ML-DL-CodeBank
+# ML-DL-Codes
 
 A structured reference library for Machine Learning, Deep Learning, NLP, and GenAI models. This repository serves as a learning resource and a quick-reference guide for interviews, hackathons, and projects.
 
 ## Structure
 
 - **Machine_Learning/**: Core and Intermediate ML algorithms (Regression, Classification, Clustering, etc.)
-- **Deep_Learning/**: Neural network architectures (ANN, CNN, LSTM, GANs, etc.)
+- **Deep_Learning/**: Neural network architectures (ANN, ANN, LSTM, GANs, etc.)
 - **NLP/**: Natural Language Processing tasks and BERT implementations.
 - **GenAI/**: Generative AI, RAG systems, and LLM applications.
 
